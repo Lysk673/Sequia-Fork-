@@ -9,9 +9,7 @@ body {
   "GRAD" 0,
   "ROND" 0; 
   margin: 0;
-  background: #3a084f;
-background: linear-gradient(140deg, rgba(58, 8, 79, 1) 0%, rgba(150, 0, 0, 1) 100%);
-
+  background: linear-gradient(90deg, #ffffd1 0.000%, #ffe07e 16.667%, #ff531e 33.333%, #730000 50.000%, #000000 66.667%, #002d2f 83.333%, #0bbc91 100.000%);
 .navbar {
   background: rgba(225, 225, 225, 0.15);
   backdrop-filter: blur(10px);

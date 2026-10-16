@@ -9,7 +9,8 @@ body {
   "GRAD" 0,
   "ROND" 0; 
   margin: 0;
-  background: linear-gradient(90deg, #ffffd1 0.000%, #ffe07e 16.667%, #ff531e 33.333%, #730000 50.000%, #000000 66.667%, #002d2f 83.333%, #0bbc91 100.000%);
+  background: linear-gradient(90deg, #ad5c5c 16.667%, #ff531e 33.333%, #730000 50.000%, #000000 66.667%, #002d2f 83.333%, #0bbc91 100.000%);
+}
 .navbar {
   background: rgba(225, 225, 225, 0.15);
   backdrop-filter: blur(10px);
@@ -39,4 +40,20 @@ body {
 
 .nav-links a:hover {
   color: red;
+}
+
+h1 {
+  font-size: 70px;
+  text-align: left;
+  margin-left: 20px;
+  margin-top: 20px;
+  color: white;
+}
+
+h3 {
+  font-size: 30px;
+  text-align: left;
+  margin-left: 20px;
+  margin-top: -50px;
+  color: white;
 }

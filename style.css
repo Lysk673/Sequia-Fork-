@@ -64,7 +64,7 @@ h2 {
   text-align: left;
   margin-left: 150px;
   margin-top: 20px;
-  color: black;
+  color: white;
 }
 
 h4 {
@@ -72,13 +72,13 @@ h4 {
   text-align: left;
   margin-left: 150px;
   margin-top: -20px;
-  color: black;
+  color: white;
 }
 
 .introduction {
   width: auto;
   height: 100%;
-  color: #FFF;
-  border: solid 10px white;
-  background-color:#FFF;
+  background: rgba(225, 225, 225, 0.15);
+  backdrop-filter: blur(10px);
+  padding: 30px 0;
 }

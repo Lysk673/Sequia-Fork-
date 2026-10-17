@@ -58,3 +58,27 @@ h3 {
   margin-top: -50px;
   color: white;
 }
+
+h2 {
+  font-size: 40px;
+  text-align: left;
+  margin-left: 200px;
+  margin-top: 20px;
+  color: white;
+}
+
+h4 {
+  font-size: 30px;
+  text-align: left;
+  margin-left: 200px;
+  margin-top: -20px;
+  color: white;
+}
+
+.introduction {
+  width: auto;
+  height: 100%;
+  color: #FFF;
+  border: solid 10px white;
+  background-color:#FFF;
+}

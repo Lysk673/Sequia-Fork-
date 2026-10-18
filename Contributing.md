@@ -4,7 +4,7 @@
 Hello, and thank you for your interest to contribute in Sequia. Before reading, please read our Code of Conduct to understand 
 limitations and boundaries when contributing.
 As we start, I have just started GitHub just a month ago, so creating a page like this was not easy - so if you would like
-to help by retyping this page for others to understand. Thank you.
+to help by retyping this page for others to understand, I'm fine with it.
 
 ## Limits and Conclusion 🚧
 To start off, lets start with our limits and conclusions for those limits on Sequia. We would love if these elements **(CURRENTLY)** are kept the same:
@@ -34,7 +34,7 @@ We will not be able to respond to **Empty Issues, One-Sentence Issues with no de
 we would also like if you provide screenshots on areas on the page, such as margin/padding errors, types and others more.
 
 ## Community Guidelines 🚫
-This is a healthy and positive open-source space. So there are boundaries set to prevent disrespect.
+This is a healthy and positive open-source space. So there are boundaries set to prevent disrespect.(See our Code of Conduct for more details)
 
 ❌ Negative Actions Include:
 
@@ -47,8 +47,8 @@ Wait for an issue to be officially assigned before starting
 Unsolicited PRs for unassigned issues will be closed without review
 Helpful and Encouraging Comments
 
-When you pass the limit: these would lead to consequences including warning/bans (read more in our code of conduct).
+When you pass the limit: these would lead to consequences including suspensions/bans.
 
-## Grab a Coffee and Get Started! Enjoy Yourself! ☕
+## Grab a Coffee and Get Started!☕
 
 ©Sequia 2026

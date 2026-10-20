@@ -1,0 +1,46 @@
+body {
+  font-family: "Google Sans Flex", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-variation-settings:
+  "slnt" 0,
+  "wdth" 100,
+  "GRAD" 0,
+  "ROND" 0; 
+  margin: 0;
+  background: linear-gradient(90deg, #ad5c5c 16.667%, #ff531e 33.333%, #730000 50.000%, #000000 66.667%, #002d2f 83.333%, #0bbc91 100.000%);
+}
+.navbar {
+  background: rgba(225, 225, 225, 0.15);
+  backdrop-filter: blur(10px);
+  border-radius: 50px;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  box-shadow: 0 6px 60px rgba(0, 0, 0, 0.5);
+  display: flex; 
+  justify-content: space-between; 
+  align-items: center;
+  color: white; 
+  padding: 10px 20px;
+  margin: 10px;
+  font-size: 30px;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-links a {
+  color: white;
+  text-decoration: none;
+}
+
+.nav-links a:hover {
+  font-weight: 600;
+}
+
+

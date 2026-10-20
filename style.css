@@ -111,3 +111,11 @@ h4 {
 #intelligent {
   color: #ff531e;
 }
+
+#verified_icon {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  /* Optional: set a max-width to keep it responsive */
+  max-width: 20%; 
+}

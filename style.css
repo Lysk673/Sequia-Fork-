@@ -60,7 +60,7 @@ h3 {
 }
 
 h2 {
-  font-size: 40px;
+  font-size: 70px;
   text-align: left;
   margin-left: 150px;
   margin-top: 20px;
@@ -68,10 +68,10 @@ h2 {
 }
 
 h4 {
-  font-size: 30px;
+  font-size: 40px;
   text-align: left;
   margin-left: 150px;
-  margin-top: -20px;
+  margin-top: -35px;
   color: white;
 }
 
@@ -119,3 +119,5 @@ h4 {
   /* Optional: set a max-width to keep it responsive */
   max-width: 20%; 
 }
+
+

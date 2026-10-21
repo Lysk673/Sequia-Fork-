@@ -10,7 +10,7 @@ identity and expression, level of experience, education, socio-economic status,
 nationality, personal appearance, race, religion, or sexual identity
 and orientation.
 
-## Our Standards 📖
+# Our Standards 📖
 
 ## What we Expect ✅
 * Demonstrating empathy and kindness toward other people
@@ -99,6 +99,7 @@ individual, or aggression toward or disparagement of classes of individuals.
 **Consequence**: A permanent ban from any sort of public interaction within
 the community.
 
-Thanks for reading
+These rules are here for a healthy and safe space for everybody, we keep everybody safe and comforatable.
 
-# End of Code of Conduct 🔚
+# End of Code of Conduct 
+

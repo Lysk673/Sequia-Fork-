@@ -25,6 +25,11 @@ Offering guides about:
 | 🐛 **Bugs** | Find and fix bugs in the code |
 | 💡 **Ideas** | Share awesome ideas for new features that help our website |
 
+# Current Tasks 📝
+- Contributors! Come join us!
+- Animate through scrolling (Fade in as you scroll)
+- Making Guides for Git and GitHub
+
 # Join and Support! 👥
 
 * ⭐ Give us a star if you please

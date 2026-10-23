@@ -12,7 +12,7 @@ Offering guides about:
 - Do's and Dont's when creating a repository
 - Practice adding their ideas to this repository (adding PRs and issues) **Visit the contributing page   for more details**
 
-***Want to add your skills? Go for it!***
+***Want to add your own guides? Go for it!***
 
 
 # What can I do to help? 💡

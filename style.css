@@ -83,9 +83,10 @@ h3 {
 }
 
 h2 {
-  font-size: 70px;
+  font-size: 90px;
   text-align: left;
   margin-left: 150px;
+  margin-right: 150px;
   margin-top: 20px;
   color: white;
 }

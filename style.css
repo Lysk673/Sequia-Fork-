@@ -98,7 +98,7 @@ h4 {
   color: white;
 }
 
-.why-us {
+.guess_what {
   width: auto;
   height: 100%;
   background: rgba(225, 225, 225, 0.15);
@@ -139,7 +139,6 @@ h4 {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  /* Optional: set a max-width to keep it responsive */
   max-width: 20%; 
 }
 

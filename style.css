@@ -68,7 +68,6 @@ h3 {
   margin-left: 60px;
   margin-top: -20px;
   text-decoration: none;
-  color: black;
   font-weight: 600;
   font-family: "Google Sans Flex", sans-serif;
   font-optical-sizing: auto;
@@ -80,6 +79,16 @@ h3 {
   "GRAD" 0,
   "ROND" 0; 
   border: none;
+  background: rgba(225, 225, 225, 0.15);
+  backdrop-filter: blur(10px);
+  border-radius: 50px;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  box-shadow: 0 6px 60px rgba(0, 0, 0, 0.5);
+  display: flex; 
+  justify-content: space-between; 
+  align-items: center;
+  color: white; 
+  font-size: 30px;
 }
 
 h2 {
